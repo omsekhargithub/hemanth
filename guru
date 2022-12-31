@@ -1,0 +1,7 @@
+# Hello name program in python
+
+name = "Toppr"
+
+# uncomment next line to take name input from user
+#name =input("Enter your name : ")
+print("Hello " + name
